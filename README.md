@@ -1,3 +1,6 @@
+# TESTING DO NOT USE THIS LIBARAY
+I am testing if I can use the Si7021 libaray by added the correct User Register check for HTU21DF sensor. Yes there is a HTU21DF libaray but platform.io keeps trying to pull a 4 year old verison.
+
 # Adafruit Si7021 Temperature & Humidity Sensor Breakout Board [![Build Status](https://github.com/adafruit/Adafruit_Si7021/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_Si7021/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_Si7021/html/index.html)
 
 <a href="https://www.adafruit.com/product/3251"><img src="assets/board.jpg?raw=true" width="500px"></a>
