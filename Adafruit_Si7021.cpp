@@ -53,7 +53,7 @@ bool Adafruit_Si7021::begin() {
     return false;
 
   reset();
-  uint8_t result = _readRegister8(SI7021_READRHT_REG_CMD)
+  uint8_t result = _readRegister8(SI7021_READRHT_REG_CMD);
 	// after reset the result should be 0x2 for HTU21DF 
 	// or 0x3A for Si7021, which is compatible for temp and humidity readings 
     if (result == 0x3A){ // Si7021
